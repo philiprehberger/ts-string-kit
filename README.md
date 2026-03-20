@@ -1,7 +1,8 @@
 # @philiprehberger/string-kit
 
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/string-kit)](https://www.npmjs.com/package/@philiprehberger/string-kit)
-[![license](https://img.shields.io/npm/l/@philiprehberger/string-kit)](./LICENSE)
+[![CI](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/string-kit.svg)](https://www.npmjs.com/package/@philiprehberger/string-kit)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-string-kit)](LICENSE)
 
 String manipulation utilities — truncate, pad, wrap, template.
 
