@@ -1,0 +1,59 @@
+{
+  "name": "@philiprehberger/string-kit",
+  "version": "0.1.0",
+  "description": "String manipulation utilities — truncate, pad, wrap, template",
+  "keywords": [
+    "string",
+    "truncate",
+    "template",
+    "pluralize",
+    "pad",
+    "wrap",
+    "escape"
+  ],
+  "author": "Philip Rehberger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiprehberger/ts-string-kit.git"
+  },
+  "homepage": "https://github.com/philiprehberger/ts-string-kit#readme",
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-string-kit/issues"
+  },
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^22.0.0"
+  }
+}
