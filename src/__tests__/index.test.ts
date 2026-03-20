@@ -14,7 +14,7 @@ import {
   unescapeHtml,
   countWords,
   countLines,
-} from '../dist/index.js';
+} from '../../dist/index.js';
 
 describe('truncate', () => {
   it('returns empty string for null/undefined', () => {

@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/string-kit.svg)](https://www.npmjs.com/package/@philiprehberger/string-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-string-kit)](LICENSE)
 
-String manipulation utilities — truncate, pad, wrap, template.
+String manipulation utilities — truncate, pad, wrap, template
 
 ## Requirements
 
@@ -151,4 +151,4 @@ npm run typecheck
 
 ## License
 
-[MIT](./LICENSE)
+MIT
