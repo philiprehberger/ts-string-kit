@@ -6,10 +6,6 @@
 
 String manipulation utilities — truncate, pad, wrap, template
 
-## Requirements
-
-- Node.js >= 18
-
 ## Installation
 
 ```bash
@@ -18,7 +14,7 @@ npm install @philiprehberger/string-kit
 
 ## Usage
 
-```typescript
+```ts
 import {
   truncate,
   template,

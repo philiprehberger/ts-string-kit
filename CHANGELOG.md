@@ -1,6 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.3
+
+- Standardize README and CHANGELOG formatting
 
 ## 0.1.2
 
@@ -10,9 +12,7 @@ All notable changes to this project will be documented in this file.
 
 - Add CI workflow and badges to README
 
-## [0.1.0] - 2026-03-20
-
-### Added
+## 0.1.0
 
 - `truncate` — truncate strings with word-boundary support and position (end/middle/start)
 - `template` — simple `{key}` placeholder interpolation
