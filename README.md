@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/string-kit.svg)](https://www.npmjs.com/package/@philiprehberger/string-kit)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-string-kit)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 String manipulation utilities — truncate, pad, wrap, template
 
