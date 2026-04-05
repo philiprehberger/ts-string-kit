@@ -1,8 +1,8 @@
 # @philiprehberger/string-kit
 
-[![CI](https://github.com/philiprehberger/string-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/string-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-string-kit/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/string-kit.svg)](https://www.npmjs.com/package/@philiprehberger/string-kit)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/string-kit)](https://github.com/philiprehberger/string-kit/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-string-kit)](https://github.com/philiprehberger/ts-string-kit/commits/main)
 
 String manipulation utilities — truncate, pad, wrap, template
 
@@ -149,11 +149,11 @@ npm run typecheck
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/string-kit)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-string-kit)
 
-🐛 [Report issues](https://github.com/philiprehberger/string-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-string-kit/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/string-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-string-kit/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
